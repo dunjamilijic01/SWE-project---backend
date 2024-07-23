@@ -1,0 +1,83 @@
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\appsettings.Development.json
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\appsettings.json
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.exe
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.deps.json
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.runtimeconfig.json
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.runtimeconfig.dev.json
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\ref\Back.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.pdb
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Humanizer.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\MySqlConnector.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.csproj.AssemblyReference.cache
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.GeneratedMSBuildEditorConfig.editorconfig
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.AssemblyInfoInputs.cache
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.AssemblyInfo.cs
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.csproj.CoreCompileInputs.cache
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.MvcApplicationPartsAssemblyInfo.cs
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.MvcApplicationPartsAssemblyInfo.cache
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\staticwebassets\Back.StaticWebAssets.Manifest.cache
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\staticwebassets\Back.StaticWebAssets.xml
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\scopedcss\bundle\Back.styles.css
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.RazorTargetAssemblyInfo.cache
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.csproj.CopyComplete
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\ref\Back.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.pdb
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.genruntimeconfig.cache
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\appsettings.Development.json
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\appsettings.json
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.StaticWebAssets.xml
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.exe
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.deps.json
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.runtimeconfig.json
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.runtimeconfig.dev.json
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\ref\Back.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Back.pdb
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Humanizer.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\MySqlConnector.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.csproj.AssemblyReference.cache
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.GeneratedMSBuildEditorConfig.editorconfig
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.AssemblyInfoInputs.cache
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.AssemblyInfo.cs
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.csproj.CoreCompileInputs.cache
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.MvcApplicationPartsAssemblyInfo.cs
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.MvcApplicationPartsAssemblyInfo.cache
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\scopedcss\bundle\Back.styles.css
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\staticwebassets\Back.StaticWebAssets.Manifest.cache
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.RazorTargetAssemblyInfo.cache
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.csproj.CopyComplete
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\ref\Back.dll
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.pdb
+D:\III_godina\VI semestar\Softwersko\Projekat\Aplikacija\Back\obj\Debug\net5.0\Back.genruntimeconfig.cache
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\My work\Fakultet\III godina\SWE Projekat\Aplikacija\Back\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
